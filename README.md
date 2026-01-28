@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Daksh1928
+- 👋 Hi, I’m Devanshu Rana @Daksh1928 
 <!---
 Daksh1928/Daksh1928 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
